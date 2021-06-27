@@ -1,4 +1,4 @@
-baseurl: https://example.com/path
+baseurl: https://example.com
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
