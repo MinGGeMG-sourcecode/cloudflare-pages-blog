@@ -1,4 +1,4 @@
-name: github pages
+name: cloudflare pages
 
 on:
   push:
@@ -21,8 +21,10 @@ jobs:
           hugo-version: latest
           extended: true
             
-      - name: Download Theme
-        run: git clone https://github.com/CaiJimmy/hugo-theme-stack ./themes/hugo-theme-stack
+      - name: Build Pre-processing
+        run: |
+          git clone https://github.com/CaiJimmy/hugo-theme-stack ./themes/hugo-theme-stack
+          sed --debug -i '1 c\baseurl: https://cloudflare-pages-blog.pages.dev/' ./config.yaml
         
       - name: Build
         run: hugo 
@@ -33,3 +35,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          publish_branch: cf-pages  # default: gh-pages
