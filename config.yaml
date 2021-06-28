@@ -50,7 +50,7 @@ params:
             default: 暂无
 
     comments:
-        enabled: true
+        enabled: false
         provider: disqus
 
         utterances:
