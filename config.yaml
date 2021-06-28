@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: MG 的  ··部·落·格··  嘤嘤嘤~~~
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -14,6 +14,8 @@ googleAnalytics:
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, es, de, nl
 DefaultContentLanguage: zh-cn
 
+relativeURLs: true
+
 permalinks:
     post: /p/:slug/
     page: /:slug/
@@ -23,7 +25,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: img/Anonymous_emblem.svg.png
 
     footer:
         since: 2020
@@ -34,18 +36,18 @@ params:
         lastUpdated: 2006, Jan 02, 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: 欢迎光临！！！
+        emoji: 👨‍💻
+        subtitle: 专业瞎折腾的MG先生的部落格
         avatar:
             local: true
-            src: img/avatar.png
+            src: img/user.png
 
     article:
-        math: false
+        math: true
         toc: true
         license:
             enabled: true
-            default: Licensed under CC BY-NC-SA 4.0
+            default: 暂无
 
     comments:
         enabled: true
