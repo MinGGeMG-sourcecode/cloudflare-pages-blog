@@ -14,7 +14,7 @@ googleAnalytics:
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, es, de, nl
 DefaultContentLanguage: zh-cn
 
-relativeURLs: true
+relativeURLs: false
 
 permalinks:
     post: /p/:slug/
