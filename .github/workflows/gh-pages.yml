@@ -24,7 +24,7 @@ jobs:
       - name: Build Pre-processing
         run: |
           git clone https://github.com/CaiJimmy/hugo-theme-stack ./themes/hugo-theme-stack
-          sed --debug -i '1 c\baseurl: https://minggemg-sourcecode.github.io/cloudflare-pages-blog/' ./config.yaml
+          sed -i '1 c\baseurl: https://minggemg-sourcecode.github.io/cloudflare-pages-blog/' ./config.yaml
         
       - name: Build
         run: hugo 
