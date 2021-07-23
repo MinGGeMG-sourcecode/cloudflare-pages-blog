@@ -10,8 +10,11 @@ categories:
 `https://minggemg-sourcecode.github.io/cloudflare-pages-blog/`
 
 [Cloudflare Pages](https://pages.cloudflare.com/) 
-`https://cloudflare-pages-blog.pages.dev/`
+`https://minggemg-cloudflare-pages-blog.pages.dev/`
 
-[Netlify: Develop & deploy the best web experiences in record time](https://netlify.app/) 
-`https://netlify-pages-blog.netlify.app/`
+[Netlify: Develop & deploy the best web experiences in record time](https://www.netlify.com/) 
+`https://minggemg-netlify-pages-blog.netlify.app/`
+
+[Develop. Preview. Ship. For the best frontend teams – Vercel](https://vercel.com/) 
+`https://minggemg-vercel-pages-blog.vercel.app/`
 
