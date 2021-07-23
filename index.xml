@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>MG 的  ··部·落·格··  嘤嘤嘤~~~</title>
-        <link>https://cloudflare-pages-blog.pages.dev/</link>
+        <link>https://minggemg-cloudflare-pages-blog.pages.dev/</link>
         <description>Recent content on MG 的  ··部·落·格··  嘤嘤嘤~~~</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language><atom:link href="https://cloudflare-pages-blog.pages.dev/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>zh-cn</language><atom:link href="https://minggemg-cloudflare-pages-blog.pages.dev/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>静态网站</title>
-        <link>https://cloudflare-pages-blog.pages.dev/p/web-all/</link>
+        <link>https://minggemg-cloudflare-pages-blog.pages.dev/p/web-all/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://cloudflare-pages-blog.pages.dev/p/web-all/</guid>
+        <guid>https://minggemg-cloudflare-pages-blog.pages.dev/p/web-all/</guid>
         <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pages.github.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.&lt;/a&gt;
 &lt;code&gt;https://minggemg-sourcecode.github.io/cloudflare-pages-blog/&lt;/code&gt;&lt;/p&gt;
