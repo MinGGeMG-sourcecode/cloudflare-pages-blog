@@ -23,7 +23,7 @@ jobs:
       - name: Build Pre-processing
         run: |
           git clone https://github.com/CaiJimmy/hugo-theme-stack ./themes/hugo-theme-stack
-          sed -i '1 c\baseurl: https://netlify-pages-blog.netlify.app' ./config.yaml
+          sed -i '1 c\baseurl: https://minggemg-netlify-pages-blog.netlify.app' ./config.yaml
         
       - name: Build
         run: hugo 
