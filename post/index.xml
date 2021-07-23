@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on MG 的  ··部·落·格··  嘤嘤嘤~~~</title>
+    <link>https://minggemg-vercel-pages-blog.vercel.app/post/</link>
+    <description>Recent content in Posts on MG 的  ··部·落·格··  嘤嘤嘤~~~</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language><atom:link href="https://minggemg-vercel-pages-blog.vercel.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>静态网站</title>
+      <link>https://minggemg-vercel-pages-blog.vercel.app/p/web-all/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://minggemg-vercel-pages-blog.vercel.app/p/web-all/</guid>
+      <description>GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live. https://minggemg-sourcecode.github.io/cloudflare-pages-blog/
+Cloudflare Pages https://cloudflare-pages-blog.pages.dev/
+Netlify: Develop &amp;amp; deploy the best web experiences in record time https://netlify-pages-blog.netlify.app/</description>
+    </item>
+    
+  </channel>
+</rss>
