@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>测试 on MG 的  ··部·落·格··  嘤嘤嘤~~~</title>
+    <link>https://minggemg-sourcecode.gitlab.io/cloudflare-pages-blog/categories/%E6%B5%8B%E8%AF%95/</link>
+    <description>Recent content in 测试 on MG 的  ··部·落·格··  嘤嘤嘤~~~</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language><atom:link href="https://minggemg-sourcecode.gitlab.io/cloudflare-pages-blog/categories/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>网站仓库</title>
+      <link>https://minggemg-sourcecode.gitlab.io/cloudflare-pages-blog/p/repo-all/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://minggemg-sourcecode.gitlab.io/cloudflare-pages-blog/p/repo-all/</guid>
+      <description>GitHub: Where the world builds software · GitHub https://github.com/MinGGeMG-sourcecode/cloudflare-pages-blog
+Bitbucket | The Git solution for professional teams https://bitbucket.org/minggemg-bitbucket-pages-blog/cloudflare-pages-blog
+Iterate faster, innovate together | GitLab https://gitlab.com/MinGGeMG-sourcecode/cloudflare-pages-blog</description>
+    </item>
+    
+    <item>
+      <title>静态网站</title>
+      <link>https://minggemg-sourcecode.gitlab.io/cloudflare-pages-blog/p/web-all/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://minggemg-sourcecode.gitlab.io/cloudflare-pages-blog/p/web-all/</guid>
+      <description>GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live. https://minggemg-sourcecode.github.io/cloudflare-pages-blog/
+Cloudflare Pages https://minggemg-cloudflare-pages-blog.pages.dev/
+Netlify: Develop &amp;amp; deploy the best web experiences in record time https://minggemg-netlify-pages-blog.netlify.app/
+Develop. Preview. Ship. For the best frontend teams – Vercel https://minggemg-vercel-pages-blog.vercel.app/</description>
+    </item>
+    
+  </channel>
+</rss>
