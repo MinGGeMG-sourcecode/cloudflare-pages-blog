@@ -1,0 +1,13 @@
+pages:
+  stage: deploy
+  script:
+    - pwd
+    - ls -dlF
+    - ls -aRlF
+    - rm -rf ./blog
+    - git clone -b gl-pages https://github.com/MinGGeMG-sourcecode/cloudflare-pages-blog.git ./blog
+  artifacts:
+    paths:
+      - blog
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
